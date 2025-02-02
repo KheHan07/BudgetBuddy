@@ -1,0 +1,224 @@
+{
+    "Groceries": [
+        {
+            "type": "expense",
+            "amount": 150,
+            "date": "2024-02-03"
+        },
+        {
+            "type": "expense",
+            "amount": 75,
+            "date": "2024-02-15"
+        }
+    ],
+    "Salary": [
+        {
+            "type": "income",
+            "amount": 3245.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "income",
+            "amount": 23145.0,
+            "date": "1122-12-12"
+        }
+    ],
+    "Fish": [
+        {
+            "type": "income",
+            "amount": 2345.0,
+            "date": "3434-12-12"
+        }
+    ],
+    "Caar": [
+        {
+            "type": "income",
+            "amount": 23.0,
+            "date": "3444-12-12"
+        },
+        {
+            "type": "income",
+            "amount": 23.0,
+            "date": "3444-12-12"
+        },
+        {
+            "type": "income",
+            "amount": 23.0,
+            "date": "3444-12-12"
+        }
+    ],
+    "hi": [
+        {
+            "type": "income",
+            "amount": 34534.0,
+            "date": "1212-12-12"
+        }
+    ],
+    "bonooo": [
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        },
+        {
+            "type": "expense",
+            "amount": 26346.0,
+            "date": "1212-12-12"
+        }
+    ]
+}
